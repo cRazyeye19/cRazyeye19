@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crazyeye19&label=Profile%20views&color=0e75b6&style=flat" alt="crazyeye19" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crazyeye19" alt="crazyeye19" /></a> </p>
+
 - 🔭 I’m currently working on **a project called "Navigator", which is a remote browser automation AI agent that is integrated on a VNC (Virtual Networking Computing) server**
 
-- 🌱 I’m currently learning **NextJS, ShadCN, and React 19**
+- 🌱 I’m currently learning **NextJS, ShadCN, Playwright, and React 19**
 
 - 💬 Ask me about **software development, specifically on web development**
 
