@@ -5,13 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crazyeye19" alt="crazyeye19" /></a> </p>
 
-- 🔭 I’m currently working on **a project called "Navigator", which is a remote browser automation AI agent that is integrated on a VNC (Virtual Networking Computing) server**
+- 🔭 I’m currently working on [a project called "Navigator"](https://navigator-a2b86.web.app/)
 
 - 🌱 I’m currently learning **NextJS, ShadCN, Playwright, and React 19**
+
+- 👯 I’m looking to collaborate on [Navigator](https://github.com/cRazyeye19/Navigator)
 
 - 💬 Ask me about **software development, specifically on web development**
 
 - 📫 How to reach me **jlesterpansoy@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/16E5EWlQrU69Ih3LhCFB54tDXjYkqNhvn/view?usp=drive_link](https://drive.google.com/file/d/16E5EWlQrU69Ih3LhCFB54tDXjYkqNhvn/view?usp=drive_link)
 
 - ⚡ Fun fact **I have a bent pinky finger :>**
 
