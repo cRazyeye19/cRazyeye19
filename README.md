@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm John Lester G. Pansoy</h1>
 <h3 align="center">An aspiring and passionate software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crazyeye19&label=Profile%20views&color=0e75b6&style=flat" alt="crazyeye19" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=crazyeye19&label=Profile%20views&color=0e75b6&style=flat" alt="crazyeye19" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crazyeye19" alt="crazyeye19" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crazyeye19&title=Commits,Experience,Stars,Repositories&theme=darkhub" alt="crazyeye19" /></a> </p>
 
 - 🔭 I’m currently working on [a project called "Navigator"](https://navigator-a2b86.web.app/)
 
