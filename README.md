@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [a project called "Navigator"](https://navigator-a2b86.web.app/)
 
-- 🌱 I’m currently learning **NextJS, ShadCN, Playwright, and React 19**
+- 🌱 I’m currently learning **NextJS, ShadCN, Convex, and Clerk**
 
 - 👯 I’m looking to collaborate on [Navigator](https://github.com/cRazyeye19/Navigator)
 
