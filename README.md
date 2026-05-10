@@ -1,30 +1,35 @@
-
-
-<div align="center" style="margin-bottom: 0;">
-  <img src="./assets/banner-lofi-rainy-window.gif" alt="lofi rainy window banner" width="100%" style="border-radius:18px; box-shadow:0 2px 12px #C9B99A55; margin-bottom: 0;" />
+<div align="center">
+  <img src="./assets/banner-lofi-rainy-window.gif" alt="lofi rainy window banner" width="100%" />
 </div>
 
-<div align="center" style="margin-top: 0;">
-  <h1 style="font-family: 'Fira Mono', 'Consolas', monospace; font-size:2.2em; letter-spacing:0.04em; font-weight:700; color:#2C2A35; margin-bottom:0.2em;">John Lester Pansoy</h1>
-  <p style="font-size:1.1em; color:#8B7355; font-family:'Fira Mono', monospace; margin-top:0; margin-bottom:0.5em;">full-stack dev · koi dad · anime enjoyer</p>
+<div align="center">
+  <h1>John Lester Pansoy</h1>
+  <p>
+    <code>full-stack dev</code> &nbsp;·&nbsp; 
+    <code>koi dad</code> &nbsp;·&nbsp; 
+    <code>anime enjoyer</code>
+  </p>
   <img src="https://komarev.com/ghpvc/?username=crazyeye19&label=Profile%20views&color=9DB5C7&style=flat" alt="crazyeye19" />
 </div>
 
 ---
 
-
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="./assets/about-me-lofi-work-station.gif" alt="about me lofi work station" width="320" style="border-radius:12px;" />
+      <td align="center" align="top">
+        <img src="./assets/about-me-lofi-work-station.gif" alt="about me lofi work station" width="320" />
       </td>
-      <td align="left" style="vertical-align:middle; padding-left:24px;">
-        <h2 style="font-family:'Fira Mono',monospace; color:#8B7355; font-size:1.4em; margin-bottom:0.2em;">about me</h2>
-        <p style="max-width: 380px; font-size:1.08em; color:#2C2A35; font-family:'Fira Mono',monospace; line-height:1.6; margin:0;">
-          hey — i'm lester, a full-stack developer from the philippines.<br>
-          i build things with javascript, nextjs, and lately, python.<br><br>
-          when not at my desk, you'll find me watching anime, tending my koi pond, or learning something new at 2am.<br><br>
+      <td align="left" valign="middle">
+        <h3>about me</h3>
+        <p>
+          hey — i'm <b>lester</b>, a full-stack developer from the philippines.<br>
+          i build things with <code>javascript</code>, <code>nextjs</code>, and lately, <code>python</code>.
+        </p>
+        <p>
+          when not at my desk, you'll find me watching anime, tending my koi pond, or learning something new at 2am.
+        </p>
+        <p>
           i believe in clean code and slow mornings. ☕
         </p>
       </td>
@@ -38,7 +43,6 @@
 <p>🧪 learning: <b>Python</b></p>
 
 ---
-
 
 <div align="center">
   <table>
@@ -78,7 +82,6 @@
 
 ---
 
-
 <div align="center">
   <table>
     <tr>
@@ -97,7 +100,6 @@
 </div>
 
 ---
-
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=crazyeye19&theme=calm&background=F5E6D3&ring=8B7355&fire=9DB5C7&currStreakLabel=D4A8C7&sideNums=8B7355&sideLabels=8B7355&dates=2C2A35" width="500" alt="GitHub Streak Stats" />
