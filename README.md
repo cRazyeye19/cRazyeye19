@@ -47,8 +47,8 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="160">
-        <img src="./assets/now-playing-midnight-thoughts-kirokaze.gif" alt="Midnight Thoughts by Kirokaze" width="120" style="border-radius:10px;" /><br>
+      <td align="center" width="240">
+        <img src="./assets/now-playing-midnight-thoughts-kirokaze.gif" alt="Midnight Thoughts by Kirokaze" width="240" style="border-radius:10px;" /><br>
         <sub>art by <a href="https://twitter.com/kirokaze">kirokaze</a></sub>
       </td>
       <td align="center" style="vertical-align:middle;">
