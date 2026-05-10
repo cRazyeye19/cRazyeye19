@@ -15,26 +15,18 @@
 ---
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" align="top">
-        <img src="./assets/about-me-lofi-work-station.gif" alt="about me lofi work station" width="320" />
-      </td>
-      <td align="left" valign="middle">
-        <h3>about me</h3>
-        <p>
-          hey — i'm <b>soy</b>, a full-stack developer from the philippines.<br>
-          i build things with <code>javascript</code>, <code>nextjs</code>, and lately, <code>python</code>.
-        </p>
-        <p>
-          when not at my desk, you'll find me watching anime, tending my koi pond, or learning something new at 2am.
-        </p>
-        <p>
-          i believe in clean code and slow mornings. ☕
-        </p>
-      </td>
-    </tr>
-  </table>
+  <img src="./assets/about-me-lofi-work-station.gif" alt="about me lofi work station" width="280" />
+  <h3>about me</h3>
+  <p>
+    hey — i'm <b>soy</b>, a full-stack developer from the philippines.<br>
+    i build things with <code>javascript</code>, <code>nextjs</code>, and lately, <code>python</code>.
+  </p>
+  <p>
+    when not at my desk, you'll find me watching anime, tending my koi pond, or learning something new at 2am.
+  </p>
+  <p>
+    i believe in clean code and slow mornings. ☕
+  </p>
 </div>
 
 ---
@@ -52,21 +44,16 @@
 ---
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="240">
-        <img src="./assets/now-playing-midnight-thoughts-kirokaze.gif" alt="Midnight Thoughts by Kirokaze" width="240" style="border-radius:10px;" /><br>
-        <sub>art by <a href="https://twitter.com/kirokaze">kirokaze</a></sub>
-      </td>
-      <td align="center" style="vertical-align:middle;">
-      <p>
-        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=v5wsvif2v26utcwgue9m30hum&redirect=true">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=v5wsvif2v26utcwgue9m30hum&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=8b7355&bar_color_cover=true&mode=dark">
-        </a>
-      </p>
-      </td>
-    </tr>
-  </table>
+  <img src="./assets/now-playing-midnight-thoughts-kirokaze.gif" alt="Midnight Thoughts by Kirokaze" width="180" /><br>
+  <sub>art by <a href="https://twitter.com/kirokaze">kirokaze</a></sub>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=v5wsvif2v26utcwgue9m30hum&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=v5wsvif2v26utcwgue9m30hum&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=8b7355&bar_color_cover=true&mode=dark" alt="Spotify Now Playing" />
+  </a>
 </div>
 
 ---
