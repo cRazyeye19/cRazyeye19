@@ -18,14 +18,13 @@
   <img src="./assets/about-me-lofi-work-station.gif" alt="about me lofi work station" width="280" />
   <h3>about me</h3>
   <p>
-    hey — i'm <b>soy</b>, a full-stack developer from the philippines.<br>
-    i build things with <code>javascript</code>, <code>nextjs</code>, and lately, <code>python</code>.
+    hey — i'm <b>soy</b> — a full-stack dev from the ph, building software that solves real problems.
   </p>
   <p>
     when not at my desk, you'll find me watching anime, tending my koi pond, or learning something new at 2am.
   </p>
   <p>
-    i believe in clean code and slow mornings. ☕
+    i believe in building things that matter — and slow mornings to think them through. ☕
   </p>
 </div>
 
