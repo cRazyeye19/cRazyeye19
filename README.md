@@ -1,38 +1,131 @@
-<h1 align="center">Hi 👋, I'm John Lester G. Pansoy</h1>
-<h3 align="center">An aspiring and passionate software developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=crazyeye19&label=Profile%20views&color=0e75b6&style=flat" alt="crazyeye19" /> </p>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=crazyeye19&title=Commits,Experience,Stars,Repositories&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="crazyeye19" />
-  </a>
+<div align="center" style="margin-bottom: 0;">
+  <!-- Banner GIF (smaller, more subtle) -->
+  <img src="./assets/banner-lofi-rainy-window.gif" alt="lofi rainy window banner" width="100%" style="border-radius:18px; box-shadow:0 2px 12px #C9B99A55; margin-bottom: 0;" />
 </div>
 
-- 🔭 I’m currently working on [a project called "Navigator"](https://navigator-a2b86.web.app/)
+<div align="center" style="margin-top: 0;">
+  <h1 style="font-family: 'Fira Mono', 'Consolas', monospace; font-size:2.2em; letter-spacing:0.04em; font-weight:700; color:#2C2A35; margin-bottom:0.2em;">lester pansoy</h1>
+  <p style="font-size:1.1em; color:#8B7355; font-family:'Fira Mono', monospace; margin-top:0; margin-bottom:0.5em;">full-stack dev · koi dad · anime enjoyer</p>
+  <img src="https://komarev.com/ghpvc/?username=crazyeye19&label=Profile%20views&color=9DB5C7&style=flat" alt="crazyeye19" />
+</div>
 
-- 🌱 I’m currently learning **Angular, Springboot, Convex, and Clerk**
+---
 
-- 👯 I’m looking to collaborate on [Navigator](https://github.com/cRazyeye19/Navigator)
 
-- 💬 Ask me about **video games, specifically on lore heavy video games**
+<!-- About Me (2 columns: gif left, info right) -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="./assets/about-me-lofi-work-station.gif" alt="about me lofi work station" width="520" style="border-radius:12px;" />
+      </td>
+      <td align="left" style="vertical-align:middle; padding-left:24px;">
+        <h2 style="font-family:'Fira Mono',monospace; color:#8B7355; font-size:1.4em; margin-bottom:0.2em;">about me</h2>
+        <p style="max-width: 380px; font-size:1.08em; color:#2C2A35; font-family:'Fira Mono',monospace; line-height:1.6; margin:0;">
+          hey — i'm lester, a full-stack developer from the philippines.<br>
+          i build things with javascript, nextjs, and lately, python.<br><br>
+          when not at my desk, you'll find me watching anime, tending my koi pond, or learning something new at 2am.<br><br>
+          i believe in clean code and slow mornings. ☕
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- 📫 How to reach me **jlesterpansoy@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16E5EWlQrU69Ih3LhCFB54tDXjYkqNhvn/view?usp=drive_link](https://drive.google.com/file/d/16E5EWlQrU69Ih3LhCFB54tDXjYkqNhvn/view?usp=drive_link)
+<!-- Currently Brewing -->
+<h2>currently brewing</h2>
+<p>🧪 learning: <b>Python</b></p>
 
-- ⚡ Fun fact **I have a bent pinky finger :>**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/john-lester-pansoy-890340207/?originalsubdomain=ph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/john-lester-pansoy-890340207/?originalsubdomain=ph" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18394458/john-pansoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18394458/john-pansoy" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/lester.go.940436" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lester.go.940436" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/jlesterpansoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/jlesterpansoy" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@jlesterpansoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@jlesterpansoy" height="30" width="40" /></a>
+
+<!-- Now Playing Section (2 columns: gif left, card right) -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="160">
+        <img src="./assets/now-playing-midnight-thoughts-kirokaze.gif" alt="Midnight Thoughts by Kirokaze" width="120" style="border-radius:10px;" /><br>
+        <sub>art by <a href="https://twitter.com/kirokaze">kirokaze</a></sub>
+      </td>
+      <td align="center" style="vertical-align:middle;">
+        <h3 style="font-family:'Fira Mono',monospace; color:#8B7355; font-size:1.1em; margin-bottom:0.2em;">now playing</h3>
+        <!-- Replace the src below with your Spotify card when ready -->
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=9DB5C7&bar_color_cover=false" alt="Spotify Now Playing" width="220" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- Tech Stack -->
+<h2>tech stack</h2>
+<p>
+<img src="https://img.shields.io/badge/React-9DB5C7?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/NextJS-B8C9A3?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/ExpressJS-D4A8C7?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-8B7355?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-F5E6D3?style=for-the-badge&logo=html5&logoColor=2C2A35"/>
+<img src="https://img.shields.io/badge/CSS-9DB5C7?style=for-the-badge&logo=css3&logoColor=2C2A35"/>
+<img src="https://img.shields.io/badge/JavaScript-B8C9A3?style=for-the-badge&logo=javascript&logoColor=2C2A35"/>
+<img src="https://img.shields.io/badge/MongoDB-D4A8C7?style=for-the-badge&logo=mongodb&logoColor=2C2A35"/>
+<img src="https://img.shields.io/badge/Firebase-8B7355?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-F5E6D3?style=for-the-badge&logo=supabase&logoColor=2C2A35"/>
+<img src="https://img.shields.io/badge/MySQL-9DB5C7?style=for-the-badge&logo=mysql&logoColor=2C2A35"/>
+<img src="https://img.shields.io/badge/PostgreSQL-B8C9A3?style=for-the-badge&logo=postgresql&logoColor=2C2A35"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crazyeye19&show_icons=true&locale=en&layout=compact" alt="crazyeye19" /></p>
+
+<!-- Stats and Languages (2 columns, improved alignment) -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=crazyeye19&show_icons=true&hide_border=true&bg_color=F5E6D3&title_color=8B7355&text_color=2C2A35&icon_color=9DB5C7&border_color=C9B99A" width="320" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crazyeye19&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=F5E6D3&title_color=8B7355&text_color=2C2A35&icon_color=9DB5C7&border_color=C9B99A" width="320" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crazyeye19&bg_color=F5E6D3&color=8B7355&line=9DB5C7&point=D4A8C7&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
+<!-- Hobbies Row (2 columns) -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/hobbies-koi-pond-pixel.gif" alt="koi pond pixel art" width="180" /><br>
+        <sub>koi & goldfish dad</sub>
+      </td>
+      <td align="center" width="50%">
+        <b>anime shelf</b><br>
+        <span style="color:#C9B99A;">(coming soon)</span><br>
+        <span>✨</span>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <img src="./assets/footer-ghibli-rain.gif" alt="ghibli rain footer" width="200" /><br>
+  <sub>"keep going, slowly" 🍵</sub>
+</div>
