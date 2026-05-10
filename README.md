@@ -82,25 +82,30 @@
 ---
 
 
-<!-- Stats and Languages (2 columns, improved alignment) -->
+<!-- Stats and Languages (GitHub Profile Summary Cards) -->
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=crazyeye19&show_icons=true&hide_border=true&bg_color=F5E6D3&title_color=8B7355&text_color=2C2A35&icon_color=9DB5C7&border_color=C9B99A" width="320" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crazyeye19&theme=solarized" width="320" alt="Repos per language" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crazyeye19&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=F5E6D3&title_color=8B7355&text_color=2C2A35&icon_color=9DB5C7&border_color=C9B99A" width="320" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crazyeye19&theme=solarized" width="320" alt="Most commit language" />
       </td>
     </tr>
   </table>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crazyeye19&theme=solarized" width="700" alt="Profile details" />
+</div>
+
 ---
 
-<!-- Activity Graph -->
+
+<!-- Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crazyeye19&bg_color=F5E6D3&color=8B7355&line=9DB5C7&point=D4A8C7&area=true&hide_border=true" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=crazyeye19&theme=calm&background=F5E6D3&ring=8B7355&fire=9DB5C7&currStreakLabel=D4A8C7&sideNums=8B7355&sideLabels=8B7355&dates=2C2A35" width="500" alt="GitHub Streak Stats" />
 </div>
 
 ---
