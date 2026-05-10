@@ -19,7 +19,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="./assets/about-me-lofi-work-station.gif" alt="about me lofi work station" width="520" style="border-radius:12px;" />
+        <img src="./assets/about-me-lofi-work-station.gif" alt="about me lofi work station" width="320" style="border-radius:12px;" />
       </td>
       <td align="left" style="vertical-align:middle; padding-left:24px;">
         <h2 style="font-family:'Fira Mono',monospace; color:#8B7355; font-size:1.4em; margin-bottom:0.2em;">about me</h2>
