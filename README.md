@@ -30,7 +30,7 @@
 
 ---
 
-<h2>currently brewing ˗ˏˋ☕ˎˊ˗</h2>
+<h2>currently brewing</h2>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32" style="vertical-align:middle;"/>
   <b>Python</b> &nbsp;|&nbsp; automating tasks, learning data analysis
