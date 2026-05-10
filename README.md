@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>John Lester Pansoy</h1>
+  <h1>john lester pansoy</h1>
   <p>
     <code>full-stack dev</code> &nbsp;·&nbsp; 
     <code>koi dad</code> &nbsp;·&nbsp; 
@@ -98,6 +98,24 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=crazyeye19&theme=calm&background=F5E6D3&ring=8B7355&fire=9DB5C7&currStreakLabel=D4A8C7&sideNums=8B7355&sideLabels=8B7355&dates=2C2A35" width="500" alt="GitHub Streak Stats" />
 </div>
+
+---
+
+<h2>connect with me</h2>
+<p>
+  <a href="https://portfolio-website-johnlester-pansoy.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-F5E6D3?style=for-the-badge&logo=vercel&logoColor=2C2A35" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/john-lester-pansoy-890340207/">
+    <img src="https://img.shields.io/badge/LinkedIn-9DB5C7?style=for-the-badge&logo=linkedin&logoColor=2C2A35" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/crazyeye19">
+    <img src="https://img.shields.io/badge/GitHub-B8C9A3?style=for-the-badge&logo=github&logoColor=2C2A35" alt="GitHub" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/jlesterpansoy">
+    <img src="https://img.shields.io/badge/HackerRank-D4A8C7?style=for-the-badge&logo=hackerrank&logoColor=2C2A35" alt="HackerRank" />
+  </a>
+</p>
 
 ---
 
