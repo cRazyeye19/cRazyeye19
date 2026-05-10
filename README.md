@@ -48,8 +48,7 @@
         <sub>art by <a href="https://twitter.com/kirokaze">kirokaze</a></sub>
       </td>
       <td align="center" style="vertical-align:middle;">
-        <h3 style="font-family:'Fira Mono',monospace; color:#8B7355; font-size:1.1em; margin-bottom:0.2em;">now playing</h3>
-      <p align="center">
+      <p>
         <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=v5wsvif2v26utcwgue9m30hum&redirect=true">
           <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=v5wsvif2v26utcwgue9m30hum&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=8b7355&bar_color_cover=true&mode=dark">
         </a>
