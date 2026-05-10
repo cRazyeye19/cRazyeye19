@@ -1,3 +1,5 @@
+
+
 <div align="center" style="margin-bottom: 0;">
   <img src="./assets/banner-lofi-rainy-window.gif" alt="lofi rainy window banner" width="100%" style="border-radius:18px; box-shadow:0 2px 12px #C9B99A55; margin-bottom: 0;" />
 </div>
@@ -9,6 +11,7 @@
 </div>
 
 ---
+
 
 <div align="center">
   <table>
@@ -36,20 +39,24 @@
 
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; text-align: center;">
-  <div style="width: 160px;">
-    <img src="./assets/now-playing-midnight-thoughts-kirokaze.gif" alt="Midnight Thoughts by Kirokaze" width="120" style="border-radius:10px;" /><br>
-    <sub>art by <a href="https://twitter.com/kirokaze">kirokaze</a></sub>
-  </div>
 
-  <div>
-    <h3 style="font-family:'Fira Mono',monospace; color:#8B7355; font-size:1.1em; margin-bottom:0.2em; margin-top:0;">now playing</h3>
-    <p align="center">
-      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=v5wsvif2v26utcwgue9m30hum&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=v5wsvif2v26utcwgue9m30hum&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=8b7355&bar_color_cover=true&mode=dark">
-      </a>
-    </p>
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="160">
+        <img src="./assets/now-playing-midnight-thoughts-kirokaze.gif" alt="Midnight Thoughts by Kirokaze" width="120" style="border-radius:10px;" /><br>
+        <sub>art by <a href="https://twitter.com/kirokaze">kirokaze</a></sub>
+      </td>
+      <td align="center" style="vertical-align:middle;">
+        <h3 style="font-family:'Fira Mono',monospace; color:#8B7355; font-size:1.1em; margin-bottom:0.2em;">now playing</h3>
+      <p align="center">
+        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=v5wsvif2v26utcwgue9m30hum&redirect=true">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=v5wsvif2v26utcwgue9m30hum&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=8b7355&bar_color_cover=true&mode=dark">
+        </a>
+      </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -72,6 +79,7 @@
 
 ---
 
+
 <div align="center">
   <table>
     <tr>
@@ -90,6 +98,7 @@
 </div>
 
 ---
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=crazyeye19&theme=calm&background=F5E6D3&ring=8B7355&fire=9DB5C7&currStreakLabel=D4A8C7&sideNums=8B7355&sideLabels=8B7355&dates=2C2A35" width="500" alt="GitHub Streak Stats" />
