@@ -5,7 +5,7 @@
 </div>
 
 <div align="center" style="margin-top: 0;">
-  <h1 style="font-family: 'Fira Mono', 'Consolas', monospace; font-size:2.2em; letter-spacing:0.04em; font-weight:700; color:#2C2A35; margin-bottom:0.2em;">lester pansoy</h1>
+  <h1 style="font-family: 'Fira Mono', 'Consolas', monospace; font-size:2.2em; letter-spacing:0.04em; font-weight:700; color:#2C2A35; margin-bottom:0.2em;">John Lester Pansoy</h1>
   <p style="font-size:1.1em; color:#8B7355; font-family:'Fira Mono', monospace; margin-top:0; margin-bottom:0.5em;">full-stack dev · koi dad · anime enjoyer</p>
   <img src="https://komarev.com/ghpvc/?username=crazyeye19&label=Profile%20views&color=9DB5C7&style=flat" alt="crazyeye19" />
 </div>
@@ -49,8 +49,7 @@
       </td>
       <td align="center" style="vertical-align:middle;">
         <h3 style="font-family:'Fira Mono',monospace; color:#8B7355; font-size:1.1em; margin-bottom:0.2em;">now playing</h3>
-        <!-- Replace the src below with your Spotify card when ready -->
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=9DB5C7&bar_color_cover=false" alt="Spotify Now Playing" width="220" />
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=v5wsvif2v26utcwgue9m30hum&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=8b7355&bar_color_cover=true&mode=dark" alt="Spotify Now Playing" width="220" />
       </td>
     </tr>
   </table>
