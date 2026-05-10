@@ -1,7 +1,6 @@
 
 
 <div align="center" style="margin-bottom: 0;">
-  <!-- Banner GIF (smaller, more subtle) -->
   <img src="./assets/banner-lofi-rainy-window.gif" alt="lofi rainy window banner" width="100%" style="border-radius:18px; box-shadow:0 2px 12px #C9B99A55; margin-bottom: 0;" />
 </div>
 
@@ -14,7 +13,6 @@
 ---
 
 
-<!-- About Me (2 columns: gif left, info right) -->
 <div align="center">
   <table>
     <tr>
@@ -36,14 +34,12 @@
 
 ---
 
-<!-- Currently Brewing -->
 <h2>currently brewing</h2>
 <p>🧪 learning: <b>Python</b></p>
 
 ---
 
 
-<!-- Now Playing Section (2 columns: gif left, card right) -->
 <div align="center">
   <table>
     <tr>
@@ -62,7 +58,6 @@
 
 ---
 
-<!-- Tech Stack -->
 <h2>tech stack</h2>
 <p>
 <img src="https://img.shields.io/badge/React-9DB5C7?style=for-the-badge&logo=react&logoColor=white"/>
@@ -82,7 +77,6 @@
 ---
 
 
-<!-- Stats and Languages (GitHub Profile Summary Cards) -->
 <div align="center">
   <table>
     <tr>
@@ -103,14 +97,12 @@
 ---
 
 
-<!-- Streak Stats -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=crazyeye19&theme=calm&background=F5E6D3&ring=8B7355&fire=9DB5C7&currStreakLabel=D4A8C7&sideNums=8B7355&sideLabels=8B7355&dates=2C2A35" width="500" alt="GitHub Streak Stats" />
 </div>
 
 ---
 
-<!-- Hobbies Row (2 columns) -->
 <div align="center">
   <table>
     <tr>
@@ -129,7 +121,6 @@
 
 ---
 
-<!-- Footer -->
 <div align="center">
   <img src="./assets/footer-ghibli-rain.gif" alt="ghibli rain footer" width="200" /><br>
   <sub>"keep going, slowly" 🍵</sub>
